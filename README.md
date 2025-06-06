@@ -73,25 +73,25 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ![Tampilan tab info](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/info.png?raw=true)
 
 ### 👤 Halaman Input Anggota
-![Tampilan Halaman Input Anggota]
+![Tampilan Halaman Input Anggota](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/inputanggota.png?raw=true)
 
 ### 📝 Halaman Input Kegiatan
-![Tampilan Halaman Input Kegiatan]
+![Tampilan Halaman Input Kegiatan](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/kegiatan.png?raw=true)
 
 ### 🆔 Halaman Generate ID Anggota
-![Tampilan Halaman Generate ID]
+![Tampilan Halaman Generate ID](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/generate.png?raw=true)
 
 ### 📷 Halaman Scan Kehadiran
-![Tampilan Halaman Scan Kehadiran]
+![Tampilan Halaman Scan Kehadiran](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/scan.png?raw=true)
 
 ### 📆 Halaman Print Kehadiran Harian
-![Tampilan Halaman Print Kehadiran Harian]
+![Tampilan Halaman Print Kehadiran Harian](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/kehadiranharian.png?raw=true)
 
 ### 🗓️ Halaman Print Kehadiran Bulanan
-![Tampilan Halaman Print Kehadiran Bulanan]
+![Tampilan Halaman Print Kehadiran Bulanan](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/kehadiranbulanan.png?raw=true)
 
 ### 🖨️ Halaman Print ID Anggota
-![Tampilan Halaman Print ID Anggota]
+![Tampilan Halaman Print ID Anggota](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/cetakidanggota.png?raw=true)
 
 
 # Hadirin — Aplikasi Absensi Guru
