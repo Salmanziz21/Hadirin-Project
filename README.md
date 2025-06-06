@@ -111,6 +111,24 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
+### 6.  Jalankan Migrasi 
+```bash
+php artisan migrate
+
+```
+
+### 7.  Jalankan server
+```bash
+php artisan serve
+
+```
+
+### 8.  Jalankan npm
+```bash
+npm install
+npm run dev
+```
+
 
 
 
