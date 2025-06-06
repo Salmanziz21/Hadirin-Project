@@ -166,6 +166,7 @@
                 <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase tracking-wider">Nama Guru</th>
                 <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase tracking-wider">NIP</th>
                 <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase tracking-wider">Status</th>
+                <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase tracking-wider">Tanggal</th>
                 <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase tracking-wider">Waktu</th>
               </tr>
             </thead>
@@ -191,6 +192,9 @@
                     {{ $attendance->status === 'tidak hadir' ? 'bg-red-100 text-red-800' : '' }}">
                     {{ ucfirst($attendance->status) }}
                   </span>
+                </td>
+                 <td class="px-4 py-3 text-sm text-gray-700">
+                  {{ \Carbon\Carbon::parse($attendance->date)->format('d-m-Y') }}
                 </td>
                 <td class="px-4 py-3 text-sm text-gray-700">
                   {{ \Carbon\Carbon::parse($attendance->time)->format('H:i:s') ?? '-' }}
