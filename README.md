@@ -64,3 +64,31 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Hadirin — Aplikasi Absensi Guru
+
+Hadirin adalah aplikasi web absensi guru berbasis Laravel yang memudahkan pencatatan kehadiran dan pengelolaan data guru secara efisien.
+
+---
+
+## ✨ Fitur Utama
+- Pencatatan kehadiran guru harian
+- Tampilan dashboard untuk user
+- Sistem database yang terstruktur
+
+---
+
+## 🚀 Cara Menjalankan Proyek (Tutorial Run)
+
+Ikuti langkah-langkah berikut untuk menjalankan proyek Laravel ini di komputer lokal:
+
+### 1. Clone Repository dari GitHub
+```bash
+git clone https://github.com/Salmanziz21/Hadirin-Project.git
+cd nama-repository
+
+### 2. Install Dependency dengan Composer
+```bash
+composer install
+
+
