@@ -85,10 +85,34 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek Laravel ini di komputer l
 ### 1. Clone Repository dari GitHub
 ```bash
 git clone https://github.com/Salmanziz21/Hadirin-Project.git
-cd nama-repository
-
+cd Hadirin-Project
+```
 ### 2. Install Dependency dengan Composer
 ```bash
 composer install
+```
+### 3. Salin File .env
+```bash
+copy .env.example .env
+```
+
+### 4.Generate Application Key
+```bash
+php artisan key:generate
+
+```
+
+### 5.Buat dan Konfigurasi Database
+## 1.Buat database baru di MySQL, misalnya hadirin.
+## 2.Buka file .env dan ubah konfigurasi database sesuai dengan pengaturan lokal Anda:
+```bash
+DB_DATABASE=hadirin
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+
+
+
 
 
