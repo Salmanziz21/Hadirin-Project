@@ -130,6 +130,35 @@ npm run dev
 ```
 
 
+## 🖼️ Tampilan Aplikasi Hadirin
+
+### 🏠 Halaman Home
+![Tampilan Home]
+
+### 👤 Halaman Input Anggota
+![Tampilan Halaman Input Anggota]
+
+### 📝 Halaman Input Kegiatan
+![Tampilan Halaman Input Kegiatan]
+
+### 🆔 Halaman Generate ID Anggota
+![Tampilan Halaman Generate ID]
+
+### 📷 Halaman Scan Kehadiran
+![Tampilan Halaman Scan Kehadiran]
+
+### 📆 Halaman Print Kehadiran Harian
+![Tampilan Halaman Print Kehadiran Harian]
+
+### 🗓️ Halaman Print Kehadiran Bulanan
+![Tampilan Halaman Print Kehadiran Bulanan]
+
+### 🖨️ Halaman Print ID Anggota
+![Tampilan Halaman Print ID Anggota]
+
+
+
+
 
 
 
