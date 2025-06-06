@@ -128,11 +128,6 @@
                 <option value="tidak hadir">Tidak Hadir</option>
               </select>
             </div>
-
-            <div class="mb-4">
-              <label for="additionalNotes" class="block text-sm font-medium text-gray-700 mb-2">Catatan (Opsional)</label>
-              <textarea name="notes" id="additionalNotes" rows="3" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-primary-500 focus:border-primary-500 bg-white" placeholder="Tambahkan catatan jika diperlukan..."></textarea>
-            </div>
           </div>
 
           <button type="submit" class="w-full bg-green-600 hover:bg-green-700 text-white py-3 px-4 rounded-lg flex items-center justify-center gap-2 transition-colors duration-200">
