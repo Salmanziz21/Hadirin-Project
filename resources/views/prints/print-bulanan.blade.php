@@ -136,6 +136,7 @@
                                 <tr>
                                     <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase">No</th>
                                     <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase">Nama Guru</th>
+                                    <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase">NIP</th>
                                     <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase">Tanggal</th>
                                     <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase">Waktu</th>
                                     <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase">Status</th>
@@ -146,6 +147,7 @@
                                 <tr class="hover:bg-gray-50">
                                     <td class="px-4 py-3 text-center text-sm text-gray-700">{{ $index + 1 }}</td>
                                     <td class="px-4 py-3 text-sm font-medium text-gray-900">{{ $attendance->teacher->name }}</td>
+                                    <td class="px-4 py-3 text-sm font-medium text-gray-900">{{ $attendance->teacher->nip }}</td>
                                     <td class="px-4 py-3 text-sm text-gray-700">
                                         {{ \Carbon\Carbon::parse($attendance->date)->format('d-m-Y') }}
                                     </td>
