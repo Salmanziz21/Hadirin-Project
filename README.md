@@ -68,10 +68,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## 🖼️ Tampilan Aplikasi Hadirin
 
 ### 🏠 Halaman Home
-![Tampilan Home]
-(https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/tools.png)
-(https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/prints.png)
-(https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/info.png)
+![Tampilan tab tools](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/tools.png?raw=true)
+![Tampilan tab prints](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/prints.png?raw=true)
+![Tampilan tab info](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/info.png?raw=true)
 
 ### 👤 Halaman Input Anggota
 ![Tampilan Halaman Input Anggota]
