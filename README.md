@@ -69,6 +69,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ### 🏠 Halaman Home
 ![Tampilan Home]
+(https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/doc/tools.png)
+(https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/doc/prints.png)
+(https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/doc/info.png)
 
 ### 👤 Halaman Input Anggota
 ![Tampilan Halaman Input Anggota]
