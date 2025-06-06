@@ -164,6 +164,7 @@
               <tr>
                 <th class="px-4 py-3 text-center text-xs font-medium text-gray-700 uppercase tracking-wider">No</th>
                 <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase tracking-wider">Nama Guru</th>
+                <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase tracking-wider">NIP</th>
                 <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase tracking-wider">Status</th>
                 <th class="px-4 py-3 text-left text-xs font-medium text-gray-700 uppercase tracking-wider">Waktu</th>
               </tr>
@@ -175,6 +176,11 @@
                 <td class="px-4 py-3">
                   <div class="text-sm font-medium text-gray-900">
                     {{ $attendance->teacher->name ?? 'N/A' }}
+                  </div>
+                </td>
+                <td class="px-4 py-3">
+                  <div class="text-sm font-medium text-gray-900">
+                    {{ $attendance->teacher->nip ?? 'N/A' }}
                   </div>
                 </td>
                 <td class="px-4 py-3">
