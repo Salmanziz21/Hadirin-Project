@@ -85,7 +85,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ![Tampilan Halaman Scan Kehadiran](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/scan1.png?raw=true)
 
 ### 📆 Halaman Print Kehadiran Harian
-![Tampilan Halaman Print Kehadiran Harian](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/kehadiranharian1.png?raw=true)
+![Tampilan Halaman Print Kehadiran Harian](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/kehadiranharian2.png?raw=true)
 
 ### 🗓️ Halaman Print Kehadiran Bulanan
 ![Tampilan Halaman Print Kehadiran Bulanan](https://github.com/Salmanziz21/Hadirin-Project/blob/main/public/kehadiranbulanan1.png?raw=true)
